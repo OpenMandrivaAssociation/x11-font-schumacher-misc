@@ -1,5 +1,5 @@
 Name: x11-font-schumacher-misc
-Version: 1.1.1
+Version: 1.1.2
 Release: %mkrel 1
 Summary: Xorg X11 font schumacher-misc
 Group: Development/X11
