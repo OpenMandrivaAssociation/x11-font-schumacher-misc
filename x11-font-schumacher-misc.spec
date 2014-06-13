@@ -1,6 +1,6 @@
 Name: x11-font-schumacher-misc
 Version: 1.1.2
-Release: 10
+Release: 11
 Summary: Xorg X11 font schumacher-misc
 Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
