@@ -1,6 +1,6 @@
 Name: x11-font-schumacher-misc
 Version: 1.1.3
-Release: 1
+Release: 2
 Summary: Xorg X11 font schumacher-misc
 Group: Development/X11
 URL: https://xorg.freedesktop.org
